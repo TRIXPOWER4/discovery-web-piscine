@@ -1,0 +1,5 @@
+Git Cycle Workflow:
+Edit: Modify files in the working directory.
+Add: Stage changes using 'git add <file>'.
+Commit: Save staged changes to local repository using 'git commit -m "message"'.
+Push: Upload local commits to remote GitHub repository using 'git push origin main'.

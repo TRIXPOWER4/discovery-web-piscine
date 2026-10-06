@@ -1,5 +1,23 @@
-commit 019a46ff7841239cc9833143209f18d13ff37e52
+commit 220c05f4949723b58cc1fc578440110d9985aada
 Author: TRIXPOWER4 <khaledtaha116@gmail.com>
-Date:   Mon Oct 5 09:44:43 2026 +0300
+Date:   Tue Oct 6 10:37:46 2026 +0300
 
-    initial commit
+    Add ex00 tree structure
+
+commit 8dad48ee9ff39e13f1ff8f5f1c6eaeb0842b39b8
+Author: TRIXPOWER4 <khaledtaha116@gmail.com>
+Date:   Tue Oct 6 10:21:42 2026 +0300
+
+    Align repository structure strictly with project 00 subject
+
+commit dcbb666beeb2f0e7bce5bcbe0295a180b391e69c
+Author: TRIXPOWER4 <khaledtaha116@gmail.com>
+Date:   Tue Oct 6 10:13:27 2026 +0300
+
+    submit all required exercise files
+
+commit 234de696f99edd4b43eff032b6dba7f73bb98e8b
+Author: TRIXPOWER4 <khaledtaha116@gmail.com>
+Date:   Tue Oct 6 09:50:36 2026 +0300
+
+    submit all exercises ex00 to ex05
