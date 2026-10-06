@@ -1,0 +1,270 @@
+/home/khaled/dev_workspace:
+total 32
+drwxr-xr-x 8 khaled khaled 4096 Oct  6 10:34 .
+drwxr-x--- 6 khaled khaled 4096 Oct  5 09:41 ..
+drwxr-xr-x 7 khaled khaled 4096 Oct  6 10:21 .git
+drwxr-xr-x 2 khaled khaled 4096 Oct  6 10:34 ex00
+drwxr-xr-x 2 khaled khaled 4096 Oct  6 10:20 ex02
+drwxr-xr-x 2 khaled khaled 4096 Oct  6 10:20 ex03
+drwxr-xr-x 2 khaled khaled 4096 Oct  6 09:49 ex04
+drwxr-xr-x 2 khaled khaled 4096 Oct  6 09:49 ex05
+
+/home/khaled/dev_workspace/.git:
+total 48
+drwxr-xr-x  7 khaled khaled 4096 Oct  6 10:21 .
+drwxr-xr-x  8 khaled khaled 4096 Oct  6 10:34 ..
+-rw-r--r--  1 khaled khaled   60 Oct  6 10:21 COMMIT_EDITMSG
+-rw-r--r--  1 khaled khaled   21 Oct  6 09:41 HEAD
+-rw-r--r--  1 khaled khaled  218 Oct  6 09:52 config
+-rw-r--r--  1 khaled khaled   73 Oct  6 09:41 description
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 09:41 hooks
+-rw-r--r--  1 khaled khaled  661 Oct  6 10:21 index
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 09:41 info
+drwxr-xr-x  3 khaled khaled 4096 Oct  6 09:50 logs
+drwxr-xr-x 23 khaled khaled 4096 Oct  6 10:21 objects
+drwxr-xr-x  4 khaled khaled 4096 Oct  6 09:41 refs
+
+/home/khaled/dev_workspace/.git/hooks:
+total 72
+drwxr-xr-x 2 khaled khaled 4096 Oct  6 09:41 .
+drwxr-xr-x 7 khaled khaled 4096 Oct  6 10:21 ..
+-rwxr-xr-x 1 khaled khaled  478 Oct  6 09:41 applypatch-msg.sample
+-rwxr-xr-x 1 khaled khaled  896 Oct  6 09:41 commit-msg.sample
+-rwxr-xr-x 1 khaled khaled 4726 Oct  6 09:41 fsmonitor-watchman.sample
+-rwxr-xr-x 1 khaled khaled  189 Oct  6 09:41 post-update.sample
+-rwxr-xr-x 1 khaled khaled  424 Oct  6 09:41 pre-applypatch.sample
+-rwxr-xr-x 1 khaled khaled 1649 Oct  6 09:41 pre-commit.sample
+-rwxr-xr-x 1 khaled khaled  416 Oct  6 09:41 pre-merge-commit.sample
+-rwxr-xr-x 1 khaled khaled 1374 Oct  6 09:41 pre-push.sample
+-rwxr-xr-x 1 khaled khaled 4898 Oct  6 09:41 pre-rebase.sample
+-rwxr-xr-x 1 khaled khaled  544 Oct  6 09:41 pre-receive.sample
+-rwxr-xr-x 1 khaled khaled 1492 Oct  6 09:41 prepare-commit-msg.sample
+-rwxr-xr-x 1 khaled khaled 2783 Oct  6 09:41 push-to-checkout.sample
+-rwxr-xr-x 1 khaled khaled 2308 Oct  6 09:41 sendemail-validate.sample
+-rwxr-xr-x 1 khaled khaled 3650 Oct  6 09:41 update.sample
+
+/home/khaled/dev_workspace/.git/info:
+total 12
+drwxr-xr-x 2 khaled khaled 4096 Oct  6 09:41 .
+drwxr-xr-x 7 khaled khaled 4096 Oct  6 10:21 ..
+-rw-r--r-- 1 khaled khaled  240 Oct  6 09:41 exclude
+
+/home/khaled/dev_workspace/.git/logs:
+total 16
+drwxr-xr-x 3 khaled khaled 4096 Oct  6 09:50 .
+drwxr-xr-x 7 khaled khaled 4096 Oct  6 10:21 ..
+-rw-r--r-- 1 khaled khaled  571 Oct  6 10:21 HEAD
+drwxr-xr-x 3 khaled khaled 4096 Oct  6 09:50 refs
+
+/home/khaled/dev_workspace/.git/logs/refs:
+total 12
+drwxr-xr-x 3 khaled khaled 4096 Oct  6 09:50 .
+drwxr-xr-x 3 khaled khaled 4096 Oct  6 09:50 ..
+drwxr-xr-x 2 khaled khaled 4096 Oct  6 09:50 heads
+
+/home/khaled/dev_workspace/.git/logs/refs/heads:
+total 12
+drwxr-xr-x 2 khaled khaled 4096 Oct  6 09:50 .
+drwxr-xr-x 3 khaled khaled 4096 Oct  6 09:50 ..
+-rw-r--r-- 1 khaled khaled  571 Oct  6 10:21 main
+
+/home/khaled/dev_workspace/.git/objects:
+total 92
+drwxr-xr-x 23 khaled khaled 4096 Oct  6 10:21 .
+drwxr-xr-x  7 khaled khaled 4096 Oct  6 10:21 ..
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:12 02
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:12 22
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 09:50 23
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:13 36
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:21 44
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 09:50 54
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:21 5e
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:13 6c
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:21 86
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:12 88
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:21 8d
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:12 9c
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:12 9f
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:13 a5
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:12 b2
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:13 b6
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:13 dc
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:13 ef
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:12 f4
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 09:41 info
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 09:41 pack
+
+/home/khaled/dev_workspace/.git/objects/02:
+total 12
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:12 .
+drwxr-xr-x 23 khaled khaled 4096 Oct  6 10:21 ..
+-r--r--r--  1 khaled khaled  149 Oct  6 10:12 cb6148416a9d9cd09869dd71fc6cc9b9209aab
+
+/home/khaled/dev_workspace/.git/objects/22:
+total 12
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:12 .
+drwxr-xr-x 23 khaled khaled 4096 Oct  6 10:21 ..
+-r--r--r--  1 khaled khaled   91 Oct  6 10:12 d33717b28f206c47f9148ed9f0c80160bd2f81
+
+/home/khaled/dev_workspace/.git/objects/23:
+total 12
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 09:50 .
+drwxr-xr-x 23 khaled khaled 4096 Oct  6 10:21 ..
+-r--r--r--  1 khaled khaled  153 Oct  6 09:50 4de696f99edd4b43eff032b6dba7f73bb98e8b
+
+/home/khaled/dev_workspace/.git/objects/36:
+total 12
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:13 .
+drwxr-xr-x 23 khaled khaled 4096 Oct  6 10:21 ..
+-r--r--r--  1 khaled khaled   90 Oct  6 10:13 6483188e71d7eb03804d531fc7319330363c75
+
+/home/khaled/dev_workspace/.git/objects/44:
+total 12
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:21 .
+drwxr-xr-x 23 khaled khaled 4096 Oct  6 10:21 ..
+-r--r--r--  1 khaled khaled   90 Oct  6 10:21 c17272f1106bd84bc0baa94187aeea5dfc2a8a
+
+/home/khaled/dev_workspace/.git/objects/54:
+total 12
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 09:50 .
+drwxr-xr-x 23 khaled khaled 4096 Oct  6 10:21 ..
+-r--r--r--  1 khaled khaled  122 Oct  6 09:50 af5504a18e984f68c038b4d8310601f3021430
+
+/home/khaled/dev_workspace/.git/objects/5e:
+total 16
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:21 .
+drwxr-xr-x 23 khaled khaled 4096 Oct  6 10:21 ..
+-r--r--r--  1 khaled khaled  122 Oct  6 10:21 a521b8e6bea18cc3f1f7cc0f09dce77dbbc08f
+-r--r--r--  1 khaled khaled   98 Oct  6 10:12 d874e8f3207c461d51575e92d4378d31dd3e46
+
+/home/khaled/dev_workspace/.git/objects/6c:
+total 12
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:13 .
+drwxr-xr-x 23 khaled khaled 4096 Oct  6 10:21 ..
+-r--r--r--  1 khaled khaled  122 Oct  6 10:13 2673df3c8da70eb031abcdeefe53281891daf0
+
+/home/khaled/dev_workspace/.git/objects/86:
+total 12
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:21 .
+drwxr-xr-x 23 khaled khaled 4096 Oct  6 10:21 ..
+-r--r--r--  1 khaled khaled   55 Oct  6 10:21 ee2409f29f7301fd742aa3c7d33ae53e9288d6
+
+/home/khaled/dev_workspace/.git/objects/88:
+total 12
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:12 .
+drwxr-xr-x 23 khaled khaled 4096 Oct  6 10:21 ..
+-r--r--r--  1 khaled khaled  111 Oct  6 10:12 9c1e614b0defa72c361927972c81ff03cf9bc9
+
+/home/khaled/dev_workspace/.git/objects/8d:
+total 12
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:21 .
+drwxr-xr-x 23 khaled khaled 4096 Oct  6 10:21 ..
+-r--r--r--  1 khaled khaled  203 Oct  6 10:21 ad48ee9ff39e13f1ff8f5f1c6eaeb0842b39b8
+
+/home/khaled/dev_workspace/.git/objects/9c:
+total 12
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:12 .
+drwxr-xr-x 23 khaled khaled 4096 Oct  6 10:21 ..
+-r--r--r--  1 khaled khaled   68 Oct  6 10:12 bac291e64b81c27c2f90f0fe98c84922edabb5
+
+/home/khaled/dev_workspace/.git/objects/9f:
+total 12
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:12 .
+drwxr-xr-x 23 khaled khaled 4096 Oct  6 10:21 ..
+-r--r--r--  1 khaled khaled   26 Oct  6 10:12 4d96d5b00d98959ea9960f069585ce42b1349a
+
+/home/khaled/dev_workspace/.git/objects/a5:
+total 12
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:13 .
+drwxr-xr-x 23 khaled khaled 4096 Oct  6 10:21 ..
+-r--r--r--  1 khaled khaled   56 Oct  6 10:13 62acb69f3b8feff5610d86de862c9a6ee97de3
+
+/home/khaled/dev_workspace/.git/objects/b2:
+total 12
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:12 .
+drwxr-xr-x 23 khaled khaled 4096 Oct  6 10:21 ..
+-r--r--r--  1 khaled khaled   69 Oct  6 10:12 c699aa4e5ca5745ed0eeafc7c55724ae6ca803
+
+/home/khaled/dev_workspace/.git/objects/b6:
+total 12
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:13 .
+drwxr-xr-x 23 khaled khaled 4096 Oct  6 10:21 ..
+-r--r--r--  1 khaled khaled  121 Oct  6 10:13 62df9b1138e372d80b7dfcd32cf81cc064c6fe
+
+/home/khaled/dev_workspace/.git/objects/dc:
+total 12
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:13 .
+drwxr-xr-x 23 khaled khaled 4096 Oct  6 10:21 ..
+-r--r--r--  1 khaled khaled  185 Oct  6 10:13 bb666beeb2f0e7bce5bcbe0295a180b391e69c
+
+/home/khaled/dev_workspace/.git/objects/ef:
+total 12
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:13 .
+drwxr-xr-x 23 khaled khaled 4096 Oct  6 10:21 ..
+-r--r--r--  1 khaled khaled   89 Oct  6 10:13 767a577fd6d0c4992f4212818d5d381777477b
+
+/home/khaled/dev_workspace/.git/objects/f4:
+total 12
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 10:12 .
+drwxr-xr-x 23 khaled khaled 4096 Oct  6 10:21 ..
+-r--r--r--  1 khaled khaled   39 Oct  6 10:12 76533b4bcd4decff0c09706acf4b18674eeb80
+
+/home/khaled/dev_workspace/.git/objects/info:
+total 8
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 09:41 .
+drwxr-xr-x 23 khaled khaled 4096 Oct  6 10:21 ..
+
+/home/khaled/dev_workspace/.git/objects/pack:
+total 8
+drwxr-xr-x  2 khaled khaled 4096 Oct  6 09:41 .
+drwxr-xr-x 23 khaled khaled 4096 Oct  6 10:21 ..
+
+/home/khaled/dev_workspace/.git/refs:
+total 16
+drwxr-xr-x 4 khaled khaled 4096 Oct  6 09:41 .
+drwxr-xr-x 7 khaled khaled 4096 Oct  6 10:21 ..
+drwxr-xr-x 2 khaled khaled 4096 Oct  6 10:21 heads
+drwxr-xr-x 2 khaled khaled 4096 Oct  6 09:41 tags
+
+/home/khaled/dev_workspace/.git/refs/heads:
+total 12
+drwxr-xr-x 2 khaled khaled 4096 Oct  6 10:21 .
+drwxr-xr-x 4 khaled khaled 4096 Oct  6 09:41 ..
+-rw-r--r-- 1 khaled khaled   41 Oct  6 10:21 main
+
+/home/khaled/dev_workspace/.git/refs/tags:
+total 8
+drwxr-xr-x 2 khaled khaled 4096 Oct  6 09:41 .
+drwxr-xr-x 4 khaled khaled 4096 Oct  6 09:41 ..
+
+/home/khaled/dev_workspace/ex00:
+total 16
+drwxr-xr-x 2 khaled khaled 4096 Oct  6 10:34 .
+drwxr-xr-x 8 khaled khaled 4096 Oct  6 10:34 ..
+-rw-r--r-- 1 khaled khaled 8158 Oct  6  2026 tree_structure.txt
+
+/home/khaled/dev_workspace/ex02:
+total 16
+drwxr-xr-x 2 khaled khaled 4096 Oct  6 10:20 .
+drwxr-xr-x 8 khaled khaled 4096 Oct  6 10:34 ..
+-rw-r--r-- 1 khaled khaled  151 Oct  5 09:50 git_log.txt
+-rw-r--r-- 1 khaled khaled   56 Oct  5 09:56 repo_url.txt
+
+/home/khaled/dev_workspace/ex03:
+total 12
+drwxr-xr-x 2 khaled khaled 4096 Oct  6 10:20 .
+drwxr-xr-x 8 khaled khaled 4096 Oct  6 10:34 ..
+-rw-r--r-- 1 khaled khaled   23 Oct  5 10:32 git_log.txt
+
+/home/khaled/dev_workspace/ex04:
+total 16
+drwxr-xr-x 2 khaled khaled 4096 Oct  6 09:49 .
+drwxr-xr-x 8 khaled khaled 4096 Oct  6 10:34 ..
+-rw-r--r-- 1 khaled khaled   83 Oct  5 10:43 git_log.txt
+-rw-r--r-- 1 khaled khaled  117 Oct  5 10:40 index.html
+
+/home/khaled/dev_workspace/ex05:
+total 12
+drwxr-xr-x 2 khaled khaled 4096 Oct  6 09:49 .
+drwxr-xr-x 8 khaled khaled 4096 Oct  6 10:34 ..
+-rw-r--r-- 1 khaled khaled   73 Oct  5 10:57 git_log.txt
